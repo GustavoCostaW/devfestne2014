@@ -1,0 +1,29 @@
+<header class="action-bar">
+	<a class="app-icon action">
+	  <i class="icon-gdg"></i>
+	</a>
+	<h1 class="title">DEV FEST 2014</h1>
+</header>
+
+<nav class="tab-fixed">
+  <ul class="tab-inner">
+    <li class='active' ><a href="#/agenda" data-ignore="true"><i class="icon-view-as-list"></i></a></li>
+    <li><a href="#/speakers"><i class="icon-group"></i></a></li>
+  </ul>
+</nav>
+
+<div class="content">
+	<div class="app-content">
+		<ul>
+          <li id="people" class="tab-item active">
+            <ul class="list inset">
+              <li class="list-divider">AGENDA</li>
+              <li class="list-item-multi-line selectable" ng-repeat="item in agenda | orderBy:'id'">
+                  <h4 class='title-agenda'>{{item.title}}</h4>
+                  <p>Horário {{item.startTime}}</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+	</div>
+</div>

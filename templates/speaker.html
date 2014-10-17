@@ -1,0 +1,24 @@
+<header class="action-bar">
+	<a class="app-icon action up" ng-click='backApp()'>
+	  <i class="icon-up-button"></i>
+	  <i class="icon-gdg"></i>
+	</a>
+	<h1 class="title">DEV FEST 2014</h1>
+</header>
+
+<div class="content">
+	<div class="app-content">
+	    <ul>
+			<li id="speaker">
+			  <div class='speaker-img' style='background-image:url(img/speakers/{{speaker.thumbnailUrl}})'></div>
+	          <div class='speaker-info'>
+	            <h1> {{speaker.name}} {{speaker.surname}}</h1>
+	            <p class='speaker-company'>{{speaker.company}}</p>
+	            <div class='speaker-bio'>{{speaker.bio}}</div>
+	          	<a href="{{speaker.social[0].link}}" target="_system">Google+</a><br/>
+	        	<a href="{{speaker.social[1].link}}" target="_system">Twitter</a><br/>
+	           </div>
+	         </li>
+        </ul>
+	</div>
+</div>

@@ -1,0 +1,594 @@
+[
+  {
+    "id": 6,
+    "name": "Abdala",
+    "surname": "Cerqueira",
+    "bio": "Formado em Sistemas para Web, Pós-graduado em Sistemas Distribuídos e internet. Já treinou órgãos como MEC, Caixa Econômica Federal, Senado Federal, Stefanini IT, STF, TST entre outros. Atualmente é consultor e atua como coordenador do PHP-PB, grupo de usuários PHP da Paraíba.",
+    "thumbnailUrl": "AbdalaCerqueira.jpg",
+    "ribbon": [
+      {
+        "abbr": "PHP-PB",
+        "title": "Grupo de Usuários PHP da Paraíba",
+        "url": "http://php-pb.net/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/101508416102638452477"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/abdalac"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/abdala"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Alércio",
+    "surname": "Bressano",
+    "company": "GoLife Company",
+    "title": "Consultor",
+    "bio": "Pós-graduando em Psicologia Organizacional, especialista em Gestão Empresarial (MBA) pela FGV-RJ, certificado internacional Scrum Professional pela Scrum Alliance (CSP), certificado PMP e Agile Practitioner PMI-ACP pelo PMI (Project Management Institute) e coautor do livro 'Equipes de Alto Desempenho' da Editora Ser+. Possui mais de 15 anos de experiência em empresas de pequeno, médio e grande porte e atualmente implementa métodos de gestão baseados em Agile/Scrum e PMBOK, criando o ambiente propício para a formação líderes, equipes e empresas de alto desempenho. Mais de 8 anos de experiência como professor universitário e ministra cursos e palestras pelo Brasil sobre gerenciamento de projetos, liderança e formação de equipes (team building).",
+    "thumbnailUrl": "AlercioBressano.jpg",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/118118398033515492422"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/alercio"
+      },
+      {
+        "name": "facebook",
+        "link": "http://www.facebook.com/golifecompany"
+      },
+      {
+        "name": "linkedin",
+        "link": "http://www.linkedin.com/in/alercio"
+      },
+      {
+        "name": "site",
+        "link": "http://alercio.com/"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Alê",
+    "surname": "Borba",
+    "company": "Google São Paulo",
+    "title": "Community Manager",
+    "bio": "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas.",
+    "thumbnailUrl": "AleBorba.jpg",
+    "rockstar": true,
+    "ribbon": [
+      {
+        "abbr": "Googler",
+        "title": "Googler",
+        "url": "https://plus.google.com/+Al%C3%AABorba/about"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+Al%C3%AABorba/about"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/ale_borba"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/aleborba"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Breno",
+    "surname": "Moura",
+    "title": "Software Developer",
+    "company": "Jaya Apps",
+    "thumbnailUrl": "BrenoMoura.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG Aracaju",
+        "url": "http://www.gdgaracaju.com.br/2014/06/ruby-on-rails-google-calendar-hands-on.html"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+BrenoMoura27/"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/basmoura"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/basmoura"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Ciro",
+    "surname": "Nunes",
+    "company": "Questrade",
+    "title": "Senior Front-end Engineer",
+    "bio": "Ciro desenvolve aplicações para o mercado financeiro pela Questrade que desafiam os limites do AnguarJS. É apaixonado por Open Source, contribuidor do core do Angular e maintainer do Karma. Ele também revisa livros, organiza meetups e ministra cursos sobre o framework mais baladado do momento, além de palestrar em eventos pelo Brasil.",
+    "thumbnailUrl": "CiroNunes.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDE",
+        "title": "Google Developer Expert",
+        "url": "https://developers.google.com/experts/"
+      }
+    ],
+    "social": [
+      {
+        "name": "site",
+        "link": "http://cironunes.com/"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/cironunes"
+      },
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+CiroNunesDev"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/CiroNunesDev"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Danilo",
+    "surname": "Reinert",
+    "title": "Software Architect",
+    "bio": "Com vários anos de experiência em Java e Javascript, ele foca no desenvolvimento de soluções relacionados a essas linguagens, especialmente voltadas para a Web. Nos últimos dois anos, tem atuado fortemente na plataforma GWT, participando com frequência na comunidade e contribuindo para bibliotecas reutilizáveis. Entusiasta do open source, ele colabora regularmente com projetos relacionados a GWT, como GWT-Bootstrap, AngularGWT e o próprio GWT, ou de modo mais genérico com o Java, como o json-schema-validator, e mantém projetos de autoria própria como o JJSchema e o Turbo GWT.",
+    "thumbnailUrl": "DaniloReinert.jpg",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+DaniloReinert"
+      },
+      {
+        "name": "linkedin",
+        "link": "http://br.linkedin.com/pub/danilo-reinert/9/69/219/pt"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/growbit/turbogwt"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gustavo",
+    "surname": "Costa",
+    "company": "Mobile Dev Group Maceió",
+    "title": "Manager",
+    "bio": "Um dos 100 BlackBerry Elite Members no mundo, palestrou em mais de 15 eventos pelo Brasil. PhoneGap Expert, já desenvolveu aplicativos para iOS, Android e BlackBerry. Participou de projetos internacionais, ganhou prêmios e venceu hackathons usando HTML5. Ama a Web e seus padrões, é contribuidor ativo no mundo Open Source, sendo criador do projeto FastGap.",
+    "thumbnailUrl": "gustavocostaw.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG Maceió",
+        "url": "https://plus.google.com/105591078626334574818/about"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+GustavoCostaW"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/GustavoCostaW"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/GustavoCostaW"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hugo",
+    "surname": "Doria",
+    "company": "Popcode",
+    "title": "Engenheiro Mobile",
+    "bio": "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos apps para dispositivos móveis, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor.",
+    "thumbnailUrl": "HugoDoria.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG Aracaju",
+        "url": "http://gdgaracaju.com.br/"
+      }
+    ],
+    "social": [
+      {
+        "name": "site",
+        "link": "http://hdoria.me"
+      },
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/106714577233715858252/posts"
+      },
+      {
+        "name": "twitter",
+        "link": "http://twitter.com/hdoria"
+      },
+      {
+        "name": "github",
+        "link": "http://github.com/hdoria"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Italo",
+    "surname": "Marcel",
+    "company": "Getinfo",
+    "title": "Coordenador de TI",
+    "bio": "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos  durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA.",
+    "thumbnailUrl": "ItaloMarcel.jpg",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/+ItaloMarcel"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/italo_MSS"
+      },
+      {
+        "name": "facebook",
+        "link": "https://www.facebook.com/italo.marcel"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Jefersson",
+    "surname": "Nathan",
+    "thumbnailUrl": "JeferssonNathan.jpg",
+    "bio": "Líder e representante do Grupo de Usuários PHP do estado de Sergipe, onde trabalha para manter a comunidade local unida. Atualmente, trabalha em uma empresa com foco em soluções web e dedica seu tempo livre á contribuição com projetos Open Source.",
+    "ribbon": [
+      {
+        "abbr": "PHP-SE",
+        "title": "Grupo de Usuários PHP de Sergipe",
+        "url": "http://phpse.net/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+JeferssonNathan"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/malukenho"
+      },
+      {
+        "name": "facebook",
+        "link": "https://facebook.com/malukenho"
+      },
+      {
+        "name": "github",
+        "link": "https://gist.github.com/malukenho"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "John",
+    "surname": "Cordeiro",
+    "company": "Ilhasoft",
+    "title": "Desenvolvedor Mobile",
+    "bio": "Atualmente é Desenvolvedor Mobile e Web Backend. Tem experiência em desenvolvimento mobile com ênfase nas plataformas Android e iOS. No presente possui seus trabalhos e pesquisas na área de visão computacional, reconhecimento de padrões e processamento multimídia. Entusiasta de tecnologias Google como o Chromecast, Google TV e Android Wear.",
+    "thumbnailUrl": "JohnCordeiro.png",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/+JohnCordeiroo"
+      },
+      {
+        "name": "facebook",
+        "link": "https://www.facebook.com/johndalton.costacordeiro"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "José",
+    "surname": "Papo",
+    "company": "Google",
+    "title": "Developer Relations Program Manager",
+    "bio": "José Papo é Developer Relations Program Manager no Google. Também já trabalhou na Amazon (AWS) e na Microsoft. É desenvolvedor de software, evangelista de novas tecnologias e mestre em engenharia da computação pelo IPT. Também atua como professor de pós-graduação na PUC-SP. Fala sobre tendências tecnológicas, computação em nuvem, agilidade, inovação e desenvolvimento de produtos em seu twitter @josepapo.",
+    "thumbnailUrl": "JosePapo.jpg",
+    "rockstar": true,
+    "ribbon": [
+      {
+        "abbr": "Googler",
+        "title": "Googler",
+        "url": "https://plus.google.com/106855131320816130150/about"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/106855131320816130150/posts"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/josepapo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Joselito",
+    "surname": "Júnior",
+    "title": "Freelancer e criador de ideias malucas",
+    "bio": "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam.",
+    "thumbnailUrl": "joselito.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG Recife",
+        "url": "http://gdgrecife.com/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/+JoselitoJúnior/"
+      },
+      {
+        "name": "twitter",
+        "link": "http://www.twitter.com/joselitojunior1"
+      },
+      {
+        "name": "github",
+        "link": "http://www.github.com/joselitojunior"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lucas",
+    "surname": "Xavier",
+    "thumbnailUrl": "LucasXavier.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG Aracaju",
+        "url": "http://www.gdgaracaju.com.br/2014/03/hands-on-desenvolvimento-de-apps-android.html"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+LucasXavierAS"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/lucasxavier"
+      },
+      {
+        "name": "facebook",
+        "link": "https://facebook.com/lucasxas"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/lucasxas"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Luís",
+    "surname": "Leão",
+    "thumbnailUrl": "LuisLeao.jpg",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+Lu%C3%ADsLe%C3%A3o"
+      },
+      {
+        "name": "twitter",
+        "link": "http://twitter.com/luisleao"
+      },
+      {
+        "name": "facebook",
+        "link": "http://www.facebook.com/luis.leao"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Marcos",
+    "surname": "OAP",
+    "company": "Samsung (CIN/UFPE)",
+    "title": "Engenheiro de Software",
+    "bio": "Marcos OAP é graduando em Ciência da Computação na FBV/DeVry University Brasil. Tem experiência como profissional da área há mais de oito anos fornecendo soluções de negócios para empresas nacionais e internacionais, atuando em papéis como Analista de Sistemas, Desenvolvedor e Gerente de Projetos. Atualmente é Engenheiro de Software no projeto Samsung no Centro de Informática da UFPE. É fascinado por inovação e projetos desafiadores. Por ser entusiasta da área de Wearable Computers fundou o grupo de pesquisas “WearIT”, do qual ele está fortemente engajado com projetos de responsabilidade social e acessibilidade. Um desses é o projeto AnnuitWalk, que visa resolver o problema de mobilidade dos cegos através de um óculos inteligente com foco na detecção de obstáculos. Nas horas vagas gosta de cinema, praia, escrever e ler ficção cientifica para, quem sabe, inspirar novos projetos :)",
+    "thumbnailUrl": "MarcosPenha.jpg",
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+MarcosOaph/posts"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/profile/view?id=179276701"
+      },
+      {
+        "name": "site",
+        "link": "http://marcosoap.com/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Nelson",
+    "surname": "Glauber",
+    "company": "C.E.S.A.R.",
+    "title": "System Enginner",
+    "bio": "Google Developer Expert de Android nomeado pelo Google em 2014. Trabalhando desde 2006 com mobile, desenvolvendo jogos e aplicativos. Mestrado em Engenharia de Software na CESAR.edu. Professor de desenvolvimento mobile em cursos de graduação e pós-graduação.",
+    "thumbnailUrl": "NelsonGlauber.jpg",
+    "rockstar": true,
+    "ribbon": [
+      {
+        "abbr": "GDE",
+        "title": "Google Developer Expert",
+        "url": "https://developers.google.com/experts/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+NelsonGlauber/posts"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/nglauber"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/nglauber"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/nglaubervasc"
+      },
+      {
+        "name": "site",
+        "link": "http://nglauber.blogspot.com.br/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Renzo",
+    "surname": "Nuccitelli",
+    "company": "Python Pro",
+    "title": "Software Engineer",
+    "bio": "Engenheiro de Computação formado pelo ITA. Especialista em programação web no Google App Engine, usa Python desde 2009. Foi Diretor de Tecnologia na startup de educação QMagico, Apaixonado por dar aulas, é professor da Fatec.",
+    "thumbnailUrl": "RenzoNuccitelli.jpg",
+    "rockstar": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "http://plus.google.com/+RenzoNuccitelli"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/renzonuccitec"
+      },
+      {
+        "name": "github",
+        "link": "http://github.com/renzon"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ricardo",
+    "surname": "Cavalcante",
+    "company": "ANID",
+    "title": "Analista de Sistema",
+    "bio": "",
+    "thumbnailUrl": "RicardoCavalcante.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG João Pessoa",
+        "url": "http://gdgjp.org.br/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/+RicardoCavalcanteJoaoPessoa/posts"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/Cavalcante_R"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/CavalcanteR"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Silas",
+    "surname": "Limeira",
+    "title": "Mobile Developer",
+    "bio": "Bacherelando em Engenharia da Computação. Silas Limeira é desenvolvedor Mobile Freelancer. Participante ativo de eventos e hackathons, ganhou a fase nacional do Space Apps Challenge 2013 (NASA), o Chrome Apps Challenge 2013 e o Startup JAM,  considera-se um entusiasta tecnológico e apoia 100% ações sociais como a Inclusão Digital.",
+    "thumbnailUrl": "SilasLimeira.jpg",
+    "ribbon": [
+      {
+        "abbr": "GDG",
+        "title": "GDG João Pessoa",
+        "url": "http://gdgjp.org.br/"
+      }
+    ],
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+SILASMONTEIRO"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/silasid"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/silasalis"
+      },
+      {
+        "name": "site",
+        "link": "http://silaslimeira.com/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Talita",
+    "surname": "Lombardi",
+    "company": "Startup Stars",
+    "title": "Founder",
+    "bio": "Administradora de formação, estudante de marketing digital da FGV, Talita Lombardi atualmente é Gerente Nacional de contas estratégicas da PedidosJá, faz consultoria e dá curso de vendas para Startups. É palestrante, mentora, jurada e super entusiasta do movimento de inovação tecnológico no Brasil. Isso aconteceu depois de 2012, quando fundou um blog de empreendedorismo digital, o Startups Stars, que se tornou referência em todo país. Ajudou diretamente e indiretamente mais de 10 Startups. Fundou ainda o blog Menina Executiva, é Nordestina que mora na ponte aérea entre Rio e São Paulo, ela está sempre pronta para ouvir e ajudar os empreendedores.",
+    "thumbnailUrl": "TalitaLombardi.jpg",
+    "social": [
+      {
+        "name": "site",
+        "link": "http://www.startupsstars.com/"
+      },
+      {
+        "name": "site",
+        "link": "http://meninaexecutiva.com/"
+      }
+    ]
+  }
+]
