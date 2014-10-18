@@ -1,0 +1,269 @@
+[
+  {
+    "id": 0,
+    "title": "Credenciamento",
+    "place": "Entrada",
+    "service": true,
+    "startTime":"8:00"
+  },
+  {
+    "id": 1,
+    "title": "Abertura: Android L, Wear e Google I/O 2014",
+    "place": "Salão Principal",
+    "subtype": "presentation",
+    "startTime":"8:20",
+    "speakers": [
+      11
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 8,
+    "title": "Almoço",
+    "service": true,
+    "startTime":"12:00"
+  },
+  {
+    "id": 15,
+    "title": "Coffee Break",
+    "place": "Hall",
+    "startTime":"16:20",
+    "service": true
+  },
+  {
+    "id": 22,
+    "startTime":"20:30",
+    "title": "Encerramento",
+    "place": "Salão Principal",
+    "service": true
+  },
+  {
+    "id": 21,
+    "startTime":"19:30",
+    "title": "Google Compute Engine: Uma Introdução",
+    "description": "Nessa palestra vamos mostrar os principais recursos da Infra-estrutura como serviço (IaaS) do Google de forma prática através de demos. Falaremos sobre servidores, storage, balanceadores de carga, entre outros.",
+    "subtype": "presentation",
+    "speakers": [
+      12
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 2,
+    "title": "Go for Baby Gophers",
+    "description": "",
+    "subtype": "presentation",
+    "startTime":"9:00",
+    "speakers": [
+      1
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 3,
+    "title": "Construindo Aplicativos Android de Alto Desempenho",
+    "description": "Você teve uma ótima ideia e criou um aplicativo que parece resolver perfeitamente o seu problema… mas não é exatamente isso que pensam seus usuários! Por que meu aplicativo trava tanto? Como o usuário consegue fazer isso? Quando eu devo melhorar a performance? Esta palestra é indicada para quem busca dicas de como tirar o máximo de uma aplicação Android.",
+    "subtype": "presentation",
+    "startTime":"9:00",
+    "speakers": [
+      5
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 4,
+    "startTime":"10:00",
+    "title": "Criando um aplicativo na nuvem para Google Glass",
+    "description": "Nesta sessão será demonstrada a criação de uma aplicação usando a Mirror API para o Google Glass.",
+    "subtype": "presentation",
+    "speakers": [
+      20
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 5,
+    "startTime":"10:00",
+    "title": "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor",
+    "description": "Crie aplicativos performáticos com HTML5: serão demonstradas técnicas de como atingir uma boa performance com Single Page Apps testando em aparelhos Android, e o conceito de apps feitos com HTML5 e usando o Chrome Dev Tools a seu favor para debugar sua aplicação. Será mostrado o Cordova para construir seu aplicativo e com isso atingir também outras plataformas.",
+    "subtype": "presentation",
+    "speakers": [
+      4
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 6,
+    "startTime":"11:00",
+    "title": "Então você quer aprender AngularJS?",
+    "subtype": "presentation",
+    "speakers": [
+      18
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 7,
+    "startTime":"10:00",
+    "title": "API-First: A 'Revolução Industrial' do Software",
+    "description": "É cada dia mais comum desenvolvermos um produto que é consumido por diversos tipos de 'front ends' diferentes, seja web, mobile ou ecosistemas de terceiros. Por conta disso, há uma crescente necessidade de se criar uma API robusta, agnóstica e que possa ser utilizada por diversos canais diferentes. Esta palestra mostrará como você pode iniciar o desenvolvimento do seus aplicativos já pensando na API como parte central do seu projeto, utilizando isso como vantagem para desenvolver apps mais rapidamente e com maior qualidade.",
+    "subtype": "presentation",
+    "speakers": [
+      3
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 9,
+    "startTime":"13:30",
+    "title": "PGAE: Um novo LAMP",
+    "description": "Uma fusão excitante entre Google App Engine e PHP. Entenda do ínicio ao fim, todos os processos necessários para configurar, manter, publicar e rodar sua aplicação nessa poderosa plataforma fornecida pelo Google. Veja as vantagens e desvantagens de usar o GAE para sua aplicação e aproveite o que há de melhor dessas duas tecnologias.",
+    "subtype": "presentation",
+    "speakers": [
+      7
+    ],
+    "language": "pt-br",
+    "complexity": "Avançado"
+  },
+  {
+    "id": 10,
+    "startTime":"13:30",
+    "title": "Startups no Brasil",
+    "description": "",
+    "subtype": "presentation",
+    "speakers": [
+      17
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 11,
+    "startTime":"14:20",
+    "title": "Websockets e você, tudo a ver",
+    "description": "Na web, no desktop e no mobile: uma abordagem básica sobre a utilização de websockets para construção de aplicações bidirecionais.",
+    "subtype": "presentation",
+    "speakers": [
+      6
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 12,
+    "startTime":"14:30",
+    "title": "Ruby <3 Android",
+    "description": "Ruby é uma linguagem de programação amorosa, ama Java, C#, iOS e seu amor mais recente é o Android. Nessa palestra irei falar um pouco sobre o Ruboto, uma alternativa bem bacana para quem quer programar Android mas não quer colocar a mão no Java, Eclipse e/ou Android Studio.",
+    "subtype": "presentation",
+    "speakers": [
+      15
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 13,
+    "startTime":"15:30",
+    "title": "Equipes autogerenciadas e meditação: como o Google gerencia seus projetos e sua produtividade",
+    "description": "Nesta sessão, os participantes irão conhecer um pouco mais sobre como o Google gerencia seus projetos e lidera suas equipes para alcançar melhores resultados. Quais os princípios de um gerente no Google e como eles são vistos pelos engenheiros? Além das práticas que favorecem o autogerenciamento de seus times, serão abordados detalhes do programa de meditação implantado no Google por um engenheiro da China e como a ideia do 'não fazer nada' e trabalhar menos tem proporcionado maiores ganhos de produtividade nos times.",
+    "subtype": "presentation",
+    "speakers": [
+      8
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 14,
+    "startTime":"15:30",
+    "title": "Material Design: Por onde começar?",
+    "description": "Nessa palestra você vai ficar por dentro de tudo para elevar sua aplicação ao próximo nível. Dê vida ao seu layout seguindo as guidelines e utilizando os novos componentes disponíveis no Android L e descubra por que é importante você sempre suportar a versão mais nova do Robozinho.",
+    "subtype": "presentation",
+    "speakers": [
+      14
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 15,
+    "startTime":"16:40",
+    "title": "Chrome Web Apps",
+    "description": "Os aplicativos nasceram em sistemas mobile e foram se tornando tão relevantes com o tempo, que até os programas de computador começaram a ser chamados de aplicativos. Com o HTML5, webapps ganharam “super poderes” e já hoje em dia não devem praticamente nada para os aplicativos nativos, escritos diretamente na linguagem da plataforma. No entanto, no mundo desktop, a história é diferente. WebApps ainda estão “presos” ao browser, atrelados a uma url, e não a uma loja de aplicativos. Além disso o acesso a recursos do computador (como gerenciamento de arquivos e acesso a executáveis do sistema) é praticamente nulo. Felizmente, estão sendo introduzidas novas tecnologias e APIs que permitem uma experiência totalmente nova a aplicativos (ou programas) feitos em HTML5. Nessa palestra, iremos conhecer alguns deles",
+    "subtype": "presentation",
+    "speakers": [
+      2
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 20,
+    "startTime":"18:40",
+    "title": "Android: na sua sala e no seu pulso",
+    "description": "Atualmente o sistema Android é muito versátil, ele pode ser utilizado em diversos aparelhos, dentre eles estão: Android Wear, Android Tv, Android Auto entre outros. É possível fazer com que todos esses dispositivos trabalhem juntos, como um só. Logo, mostraremos conceitos básicos para quem está iniciando no assunto e pretende começar a programar para o Chromecast e o Android Wear, no final iremos fazer uma DEMO, aplicação que servirá de exemplo na integração do Android Wear com seu smartphone e Chromecast.",
+    "subtype": "presentation",
+    "speakers": [
+      10,
+      13
+    ],
+    "language": "pt-br",
+    "complexity": "Intermediário"
+  },
+  {
+    "id": 17,
+    "startTime":"17:40",
+    "title": "GWT: de iniciante a especialista",
+    "description": "O GWT é conhecido por ter uma pesada curva de aprendizagem, desestimulando iniciantes a continuar no estudo da tecnologia. Essa palestra buscará trazer para os participantes um conhecimento abrangente porém seletivo, norteado pelas melhores práticas, para que eles possam iniciar o desenvolvimento de aplicações web com GWT de imediato.",
+    "subtype": "presentation",
+    "speakers": [
+      19
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 16,
+    "startTime":"16:40",
+    "title": "O Impacto de Wearable Computers na vida das pessoas: Uma ponte para tecnologias assistivas e acessibilidade",
+    "description": "Tecnologias Vestíveis são uma realidade hoje! Se observarmos, facilmente encontramos produtos deste setor no mercado ou grandes iniciativas que prometem revolucionar o modo como interagimos com computadores, como por exemplo o Google Glass e os tão especulados smartwatches. Porém, nem sempre temos a perspectiva de como esses equipamentos podem realmente melhorar nossa qualidade de vida. E principalmente, como essas tecnologias podem auxiliar aqueles que mais precisam. Então, como podemos resolver os problemas de pessoas que sofrem algum tipo de deficiência? O que temos disponivel atualmente no mercado para facilitar a construção de tais tecnologias assistivas? Essa palestra visa responder essas perguntas e apresentar um novo ponto de vista sobre o uso de tecnologias vestíveis para promover a inclusão social e a acessibilidade.",
+    "subtype": "presentation",
+    "speakers": [
+      16
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 19,
+    "startTime":"18:40",
+    "title": "Programando em Hackathons com Google App Engine",
+    "description": "Dicas sobre programação em Hackathons utilizando Google App Engine. Exemplo prático com a construção de uma app simples durante a própria apresentação.",
+    "subtype": "presentation",
+    "speakers": [
+      9
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  },
+  {
+    "id": 18,
+    "startTime":"17:40",
+    "title": "Desenvolvendo para Chromecast",
+    "description": "Um overview sobre o Chromecast como tecnologia, mostrando as possibilidades tanto dos aplicativos executados no cliente quanto na TV, mostrando o fluxo de comunicação entre ambos e a aplicação dos mesmos.",
+    "subtype": "presentation",
+    "speakers": [
+      21
+    ],
+    "language": "pt-br",
+    "complexity": "Básico"
+  }
+]

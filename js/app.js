@@ -16,7 +16,7 @@ var app = angular.module('myApp', ['ngRoute']).config(
                 templateUrl: 'templates/agenda.html',
                 controller: 'Agenda'
             }).otherwise({
-                redirectTo: '/speakers'
+                redirectTo: '/agenda'
             });
 
     }).run(function() {
@@ -60,41 +60,7 @@ app.controller('Agenda', function($scope, Agenda) {
     });
 
 });
-
-/* FACTORYS */
-app.factory('Speakers', function($http) {
-        var speakerList;
-        var obj = {};
-
-        obj = {
-            getSpeakers: function(callback) {
-                if (speakerList) {
-                    callback(speakerList);
-                    return false;
-                } else {
-
-                $http({
-                    method: 'GET',
-                    url: 'data/speakers.json'
-                }).success(function(data) {
-                    // erros
-                    obj.saveSpeakers(data);
-                    callback(data);
-
-                }).
-                error(function() {
-                    //error
-                });
-            }
-        },
-        saveSpeakers: function(data) {
-            speakerList = data;
-        }
-    }
-
-    return obj;
-})
-
+/*FACTORYS*/
 app.factory('Agenda', function($http) {
     var agendaList;
     var obj = {};
@@ -128,3 +94,36 @@ app.factory('Agenda', function($http) {
 
     return obj;
 })
+/* FACTORYS */
+app.factory('Speakers', function($http) {
+        var speakerList;
+        var obj = {};
+
+        obj = {
+            getSpeakers: function(callback) {
+                if (speakerList) {
+                    callback(speakerList);
+                    return false;
+                } else {
+
+                $http({
+                    method: 'GET',
+                    url: 'data/speakers.json'
+                }).success(function(data) {
+                    // erros
+                    obj.saveSpeakers(data);
+                    callback(data);
+
+                }).
+                error(function() {
+                    //error
+                });
+            }
+        },
+        saveSpeakers: function(data) {
+            speakerList = data;
+        }
+    }
+
+    return obj;
+});

@@ -1,0 +1,16 @@
+{
+  "name": "devfest",
+  "version": "0.0.1",
+  "authors": [
+    "Gustavo Costa <gustavo.costa.w@gmail.com>"
+  ],
+  "description": "html5 hybrid app by cordova, fries and angular.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

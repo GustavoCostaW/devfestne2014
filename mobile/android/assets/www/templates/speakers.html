@@ -1,0 +1,31 @@
+<header class="action-bar">
+  <a class="app-icon action">
+    <i class="icon-gdg"></i>
+  </a>
+  <h1 class="title">DEV FEST 2014</h1>
+</header>
+
+<nav class="tab-fixed">
+  <ul class="tab-inner">
+    <li><a href="#/agenda" data-ignore="true"><i class="icon-view-as-list"></i></a></li>
+    <li class='active' ><a href="#/speakers"><i class="icon-group"></i></a></li>
+  </ul>
+</nav>
+
+<div class="content">
+	<div class="app-content">
+		<ul>
+          <li id="people" class="tab-item active">
+            <ul class="list inset">
+              <li class="list-divider">PALESTRANTES</li>
+              <li class="list-item-multi-line selectable" ng-repeat="item in speakers">
+                <a href="#/speaker/{{item.id}}">
+                  <h4>{{item.name}} - {{item.company}}</h4>
+                  <p>{{item.bio}}</p>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+	</div>
+</div>
